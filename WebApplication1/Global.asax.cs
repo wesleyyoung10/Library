@@ -7,9 +7,9 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace WebApplication1
+namespace LibraryApi
 {
-    public class WebApiApplication : System.Web.HttpApplication
+    public class LibraryApi : System.Web.HttpApplication
     {
         protected void Application_Start()
         {
